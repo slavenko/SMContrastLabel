@@ -1,5 +1,11 @@
 # ContrastLabel
 UILabel subclass where a part/section has a contrasting color/background
 
-Screenshot:
-https://monosnap.com/file/7HqogcreBTB2wuVLyf0nzhAIGfuFwo
+Default:
+<br />
+<img width="150px" src="https://monosnap.com/image/pwNDpmLMU7U9eiL7DmdWdfBx5jjFJw.png">
+<br />
+
+Custom:
+<br />
+<img width="150px" src="https://monosnap.com/image/fzFr8Jm8HuZfLxzC346HqIVEzO73cn.png">
