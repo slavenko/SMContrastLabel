@@ -1,4 +1,4 @@
-# ContrastLabel
+# SMContrastLabel
 A fun little coding challenge, someone might find it useful.
 
 UILabel subclass where a part/section has a contrasting color/background
