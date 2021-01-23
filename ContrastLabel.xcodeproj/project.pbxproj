@@ -12,7 +12,7 @@
 		5140C47721DBB430008A89D4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5140C47521DBB430008A89D4 /* Main.storyboard */; };
 		5140C47921DBB431008A89D4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5140C47821DBB431008A89D4 /* Assets.xcassets */; };
 		5140C47C21DBB431008A89D4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5140C47A21DBB431008A89D4 /* LaunchScreen.storyboard */; };
-		5140C48421DBB443008A89D4 /* ContrastLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5140C48321DBB443008A89D4 /* ContrastLabel.swift */; };
+		51E16C2025BC891B00463879 /* SMContrastLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51E16C1F25BC891B00463879 /* SMContrastLabel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,7 +23,7 @@
 		5140C47821DBB431008A89D4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5140C47B21DBB431008A89D4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5140C47D21DBB431008A89D4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		5140C48321DBB443008A89D4 /* ContrastLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContrastLabel.swift; sourceTree = "<group>"; };
+		51E16C1F25BC891B00463879 /* SMContrastLabel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SMContrastLabel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,8 +61,8 @@
 				5140C47521DBB430008A89D4 /* Main.storyboard */,
 				5140C47821DBB431008A89D4 /* Assets.xcassets */,
 				5140C47A21DBB431008A89D4 /* LaunchScreen.storyboard */,
+				51E16C1F25BC891B00463879 /* SMContrastLabel.swift */,
 				5140C47D21DBB431008A89D4 /* Info.plist */,
-				5140C48321DBB443008A89D4 /* ContrastLabel.swift */,
 			);
 			path = ContrastLabel;
 			sourceTree = "<group>";
@@ -138,9 +138,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				51E16C2025BC891B00463879 /* SMContrastLabel.swift in Sources */,
 				5140C47421DBB430008A89D4 /* ViewController.swift in Sources */,
 				5140C47221DBB430008A89D4 /* AppDelegate.swift in Sources */,
-				5140C48421DBB443008A89D4 /* ContrastLabel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
